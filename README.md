@@ -14,7 +14,7 @@ This is a simple application that:
 5. Saves each page revision as an XML file in a format that MediaWiki can import
 6. Imports each page revision into MediaWiki using maintenance scripts
 
-There are significant differences between the way pages are structured in ScrewTurnWiki and MediaWiki, for more information: 
+For a little story and more info: http://bubbassauro.com/screwturnwiki-to-mediawiki-migration 
 
 Important notes
 ---------------
